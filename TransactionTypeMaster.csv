@@ -1,0 +1,7 @@
+TransactionTypeID,TransactionName,TransactionDescription
+,Cash withdrawal,Cash withdrawal
+,Deposit,Deposit
+,Balance Transfer,Balance Transfer
+,Payments,Payments
+,Third-Party-Payments,Third-Party-Payments
+,Third-Party-Payments,Third-Party-Payments

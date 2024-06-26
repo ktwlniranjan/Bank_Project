@@ -1,0 +1,300 @@
+BranchID,BranchCode,BranchName,Bankcode,BranchType,Branch Address,Country,State,County,IFSC Code,Town,BranchOpenDate
+2152,342,"ANB,Albion,Orleans",ANB,,"218,Eighth San Street,Albion",US,NY,Orleans,ANB00342,Albion,10/1/2010
+2153,343,"ANB,Albion,Oswego",ANB,,"318,third Lane,Albion",US,NY,Oswego,ANB00343,Albion,5/5/2003
+2187,344,"ANB,Ashland,Chemung",ANB,,"149,Sixth Avenue,Ashland",US,NY,Chemung,ANB00344,Ashland,12/30/2013
+2188,345,"ANB,Ashland,Greene",ANB,,"392,Second Lane,Ashland",US,NY,Greene,ANB00345,Ashland,11/11/2000
+2244,346,"ANB,Brighton,Franklin",ANB,,"352,Tenth Lane,Brighton",US,NY,Franklin,ANB00346,Brighton,9/20/2003
+2245,347,"ANB,Brighton,Monroe",ANB,,"150,Eighth Lane,Brighton",US,NY,Monroe,ANB00347,Brighton,5/25/2004
+2312,348,"ANB,Chester,Orange",ANB,,"141,first Main Street,Chester",US,NY,Orange,ANB00348,Chester,6/16/2017
+2313,349,"ANB,Chester,Warren",ANB,,"242,Tenth Avenue,Chester",US,NY,Warren,ANB00349,Chester,7/22/2004
+2330,350,"ANB,Clinton,Clinton",ANB,,"247,second Lane,Clinton",US,NY,Clinton,ANB00350,Clinton,10/23/2017
+2331,351,"ANB,Clinton,Dutchess",ANB,,"175,Eighth Park Street,Clinton",US,NY,Dutchess,ANB00351,Clinton,6/24/2003
+2390,352,"ANB,Dickinson,Broome",ANB,,"229,Second Avenue,Dickinson",US,NY,Broome,ANB00352,Dickinson,8/2/2004
+2391,353,"ANB,Dickinson,Franklin",ANB,,"319,first Building,Dickinson",US,NY,Franklin,ANB00353,Dickinson,3/5/2002
+2455,354,"ANB,Franklin,Delaware",ANB,,"197,Forth Avenue,Franklin",US,NY,Delaware,ANB00354,Franklin,12/30/2013
+2456,355,"ANB,Franklin,Franklin",ANB,,"211,Tenth Avenue,Franklin",US,NY,Franklin,ANB00355,Franklin,9/11/2011
+2460,356,"ANB,Fremont,Steuben",ANB,,"451,Fifth Street,Fremont",US,NY,Steuben,ANB00356,Fremont,12/16/2008
+2461,357,"ANB,Fremont,Sullivan",ANB,,"493,Sixth Street,Fremont",US,NY,Sullivan,ANB00357,Fremont,5/29/2002
+2502,358,"ANB,Greenville,Greene",ANB,,"202,second Avenue,Greenville",US,NY,Greene,ANB00358,Greenville,12/13/2003
+2503,359,"ANB,Greenville,Orange",ANB,,"481,First Lane,Greenville",US,NY,Orange,ANB00359,Greenville,6/19/2008
+2617,360,"ANB,Lewis,Essex",ANB,,"493,Forth Avenue,Lewis",US,NY,Essex,ANB00360,Lewis,1/24/2016
+2618,361,"ANB,Lewis,Lewis",ANB,,"452,Second Building,Lewis",US,NY,Lewis,ANB00361,Lewis,9/24/2001
+2619,362,"ANB,Albion,Oswego",ANB,,"252,first Street,Albion",US,NY,Oswego,ANB00362,Albion,5/15/2015
+2620,363,"ANB,Dickinson,Broome",ANB,,"295,First Cascade,Dickinson",US,NY,Broome,ANB00363,Dickinson,4/18/2018
+2621,364,"ANB,Dickinson,Franklin",ANB,,"179,forth PO,Dickinson",US,NY,Franklin,ANB00364,Dickinson,6/22/2016
+2622,365,"ANB,Allegany,Cattaraugus",ANB,,"286,fifth PO,Allegany",US,NY,Cattaraugus,ANB00365,Allegany,9/21/2007
+2623,366,"ANB,Allen,Allegany",ANB,,"366,Ninth Block,Allen",US,NY,Allegany,ANB00366,Allen,3/30/2015
+2624,367,"ANB,Alma,Allegany",ANB,,"490,Sixth PO,Alma",US,NY,Allegany,ANB00367,Alma,1/28/2014
+2625,368,"ANB,Almond,Allegany",ANB,,"466,Tenth Park Avenue,Almond",US,NY,Allegany,ANB00368,Almond,4/8/2006
+2626,369,"ANB,Altona,Clinton",ANB,,"169,Sixth Lane,Altona",US,NY,Clinton,ANB00369,Altona,11/10/2007
+2627,370,"ANB,Amboy,Oswego",ANB,,"169,Seventh Lane,Amboy",US,NY,Oswego,ANB00370,Amboy,2/6/2010
+2628,371,"ANB,Amenia,Dutchess",ANB,,"138,Ninth Street,Amenia",US,NY,Dutchess,ANB00371,Amenia,2/9/2011
+2629,372,"ANB,Amherst,Erie",ANB,,"432,Tenth Avenue,Amherst",US,NY,Erie,ANB00372,Amherst,6/28/2007
+2630,373,"ANB,Amity,Allegany",ANB,,"375,Third Building,Amity",US,NY,Allegany,ANB00373,Amity,9/29/2018
+2631,374,"ANB,Amsterdam,Montgomery",ANB,,"113,Second Park Street,Amsterdam",US,NY,Montgomery,ANB00374,Amsterdam,11/30/2017
+2632,375,"ANB,Ancram,Columbia",ANB,,"239,First Block,Ancram",US,NY,Columbia,ANB00375,Ancram,7/26/2013
+2633,376,"ANB,Andes,Delaware",ANB,,"140,Ninth Park Street,Andes",US,NY,Delaware,ANB00376,Andes,1/6/2005
+2634,377,"ANB,Andover,Allegany",ANB,,"331,Tenth PO,Andover",US,NY,Allegany,ANB00377,Andover,5/30/2011
+2635,378,"ANB,Angelica,Allegany",ANB,,"123,fifth Avenue,Angelica",US,NY,Allegany,ANB00378,Angelica,9/21/2005
+2636,379,"ANB,Annsville,Oneida",ANB,,"345,Ninth Lane,Annsville",US,NY,Oneida,ANB00379,Annsville,7/17/2004
+2637,380,"ANB,Antwerp,Jefferson",ANB,,"226,Forth PO,Antwerp",US,NY,Jefferson,ANB00380,Antwerp,9/5/2015
+2638,381,"ANB,Arcade,Wyoming",ANB,,"276,Forth Block,Arcade",US,NY,Wyoming,ANB00381,Arcade,1/13/2015
+2639,382,"ANB,Arcadia,Wayne",ANB,,"177,third Street,Arcadia",US,NY,Wayne,ANB00382,Arcadia,6/16/2003
+2640,383,"ANB,Argyle,Washington",ANB,,"470,Sixth Lane,Argyle",US,NY,Washington,ANB00383,Argyle,2/24/2006
+2641,384,"ANB,Arietta,Hamilton",ANB,,"177,second Lane,Arietta",US,NY,Hamilton,ANB00384,Arietta,8/21/2014
+2642,385,"ANB,Arkwright,Chautauqua",ANB,,"226,forth Avenue,Arkwright",US,NY,Chautauqua,ANB00385,Arkwright,12/25/2000
+2643,386,"ANB,Ashford,Cattaraugus",ANB,,"264,Tenth Main Street,Ashford",US,NY,Cattaraugus,ANB00386,Ashford,9/11/2006
+2644,387,"ANB,Athens,Greene",ANB,,"342,Sixth Lane,Athens",US,NY,Greene,ANB00387,Athens,9/10/2016
+2645,388,"ANB,Attica,Wyoming",ANB,,"402,fifth Park Avenue,Attica",US,NY,Wyoming,ANB00388,Attica,7/16/2008
+2646,389,"ANB,Au Sable,Clinton",ANB,,"299,Fifth Avenue,Au Sable",US,NY,Clinton,ANB00389,Au Sable,7/11/2017
+2647,390,"ANB,Augusta,Oneida",ANB,,"354,forth Block,Augusta",US,NY,Oneida,ANB00390,Augusta,8/9/2002
+2648,391,"ANB,Aurelius,Cayuga",ANB,,"442,forth Avenue,Aurelius",US,NY,Cayuga,ANB00391,Aurelius,5/13/2005
+2649,392,"ANB,Aurora,Erie",ANB,,"118,Forth Avenue,Aurora",US,NY,Erie,ANB00392,Aurora,1/7/2014
+2650,393,"ANB,Austerlitz,Columbia",ANB,,"242,Third Park Avenue,Austerlitz",US,NY,Columbia,ANB00393,Austerlitz,10/10/2001
+2651,394,"ANB,Ava,Oneida",ANB,,"286,Second Park Avenue,Ava",US,NY,Oneida,ANB00394,Ava,10/6/2007
+2652,395,"ANB,Avoca,Steuben",ANB,,"184,First Park Street,Avoca",US,NY,Steuben,ANB00395,Avoca,11/29/2011
+2653,396,"ANB,Avon,Livingston",ANB,,"351,Fifth Main Street,Avon",US,NY,Livingston,ANB00396,Avon,5/1/2006
+2654,397,"ANB,Babylon,Suffolk",ANB,,"400,Tenth Main Street,Babylon",US,NY,Suffolk,ANB00397,Babylon,3/30/2018
+2655,398,"ANB,Bainbridge,Chenango",ANB,,"475,forth Lane,Bainbridge",US,NY,Chenango,ANB00398,Bainbridge,11/12/2017
+2656,399,"ANB,Baldwin,Chemung",ANB,,"279,Fifth Avenue,Baldwin",US,NY,Chemung,ANB00399,Baldwin,2/15/2018
+2657,400,"ANB,Ballston,Saratoga",ANB,,"374,First Block,Ballston",US,NY,Saratoga,ANB00400,Ballston,7/3/2015
+2658,401,"ANB,Bangor,Franklin",ANB,,"180,forth Avenue,Bangor",US,NY,Franklin,ANB00401,Bangor,3/10/2004
+2659,402,"ANB,Barker,Broome",ANB,,"438,forth Lane,Barker",US,NY,Broome,ANB00402,Barker,1/11/2010
+2660,403,"ANB,Barre,Orleans",ANB,,"340,fifth Avenue,Barre",US,NY,Orleans,ANB00403,Barre,6/6/2002
+2661,404,"ANB,Barrington,Yates",ANB,,"210,fifth Street,Barrington",US,NY,Yates,ANB00404,Barrington,8/3/2012
+2662,405,"ANB,Barton,Tioga",ANB,,"120,forth Avenue,Barton",US,NY,Tioga,ANB00405,Barton,2/19/2008
+2663,406,"ANB,Batavia,Genesee",ANB,,"165,first PO,Batavia",US,NY,Genesee,ANB00406,Batavia,3/24/2018
+2664,407,"ANB,Bath,Steuben",ANB,,"469,Second Avenue,Bath",US,NY,Steuben,ANB00407,Bath,5/14/2010
+2665,408,"ANB,Bedford,Westchester",ANB,,"472,Forth PO,Bedford",US,NY,Westchester,ANB00408,Bedford,12/30/2006
+2666,409,"ANB,Beekman,Dutchess",ANB,,"416,Third Avenue,Beekman",US,NY,Dutchess,ANB00409,Beekman,8/23/2006
+2667,410,"ANB,Beekmantown,Clinton",ANB,,"359,Tenth Main Street,Beekmantown",US,NY,Clinton,ANB00410,Beekmantown,1/7/2001
+2668,411,"ANB,Belfast,Allegany",ANB,,"243,Sixth Lane,Belfast",US,NY,Allegany,ANB00411,Belfast,2/5/2002
+2669,412,"ANB,Bellmont,Franklin",ANB,,"210,second Cascade,Bellmont",US,NY,Franklin,ANB00412,Bellmont,1/20/2015
+2670,413,"ANB,Bennington,Wyoming",ANB,,"203,Second PO,Bennington",US,NY,Wyoming,ANB00413,Bennington,11/22/2014
+2671,414,"ANB,Benson,Hamilton",ANB,,"430,Tenth Cascade,Benson",US,NY,Hamilton,ANB00414,Benson,3/8/2007
+2672,415,"ANB,Benton,Yates",ANB,,"410,Forth Park Avenue,Benton",US,NY,Yates,ANB00415,Benton,12/12/2003
+2673,416,"ANB,Bergen,Genesee",ANB,,"436,Fifth Street,Bergen",US,NY,Genesee,ANB00416,Bergen,5/12/2017
+2674,417,"ANB,Berkshire,Tioga",ANB,,"103,second Building,Berkshire",US,NY,Tioga,ANB00417,Berkshire,4/24/2010
+2675,418,"ANB,Berlin,Rensselaer",ANB,,"134,Tenth Street,Berlin",US,NY,Rensselaer,ANB00418,Berlin,2/28/2007
+2676,419,"ANB,Berne,Albany",ANB,,"456,Ninth PO,Berne",US,NY,Albany,ANB00419,Berne,3/23/2014
+2677,420,"ANB,Bethany,Genesee",ANB,,"156,Tenth Lane,Bethany",US,NY,Genesee,ANB00420,Bethany,1/21/2003
+2678,421,"ANB,Bethel,Sullivan",ANB,,"200,Seventh Avenue,Bethel",US,NY,Sullivan,ANB00421,Bethel,12/12/2015
+2679,422,"ANB,Bethlehem,Albany",ANB,,"338,Tenth Lane,Bethlehem",US,NY,Albany,ANB00422,Bethlehem,2/4/2012
+2680,423,"ANB,Big Flats,Chemung",ANB,,"347,Seventh Street,Big Flats",US,NY,Chemung,ANB00423,Big Flats,9/13/2006
+2681,424,"ANB,Binghamton,Broome",ANB,,"141,fifth Lane,Binghamton",US,NY,Broome,ANB00424,Binghamton,7/24/2002
+2682,425,"ANB,Birdsall,Allegany",ANB,,"324,Eighth Street,Birdsall",US,NY,Allegany,ANB00425,Birdsall,3/11/2002
+2683,426,"ANB,Black Brook,Clinton",ANB,,"157,Forth Street,Black Brook",US,NY,Clinton,ANB00426,Black Brook,3/16/2015
+2684,427,"ANB,Bleecker,Fulton",ANB,,"468,Seventh Main Street,Bleecker",US,NY,Fulton,ANB00427,Bleecker,12/26/2003
+2685,428,"ANB,Blenheim,Schoharie",ANB,,"449,second PO,Blenheim",US,NY,Schoharie,ANB00428,Blenheim,4/6/2015
+2686,429,"ANB,Blooming Grove,Orange",ANB,,"441,third Lane,Blooming Grove",US,NY,Orange,ANB00429,Blooming Grove,1/9/2016
+2687,430,"ANB,Bolivar,Allegany",ANB,,"291,Tenth Block,Bolivar",US,NY,Allegany,ANB00430,Bolivar,8/13/2000
+2688,431,"ANB,Bolton,Warren",ANB,,"322,third Block,Bolton",US,NY,Warren,ANB00431,Bolton,2/27/2000
+2689,432,"ANB,Bombay,Franklin",ANB,,"370,Third Street,Bombay",US,NY,Franklin,ANB00432,Bombay,11/27/2017
+2690,433,"ANB,Boonville,Oneida",ANB,,"132,Second Avenue,Boonville",US,NY,Oneida,ANB00433,Boonville,3/9/2018
+2691,434,"ANB,Boston,Erie",ANB,,"175,forth Avenue,Boston",US,NY,Erie,ANB00434,Boston,7/30/2003
+2692,435,"ANB,Bovina,Delaware",ANB,,"210,third Street,Bovina",US,NY,Delaware,ANB00435,Bovina,2/6/2007
+2693,436,"ANB,Boylston,Oswego",ANB,,"144,Third Main Street,Boylston",US,NY,Oswego,ANB00436,Boylston,4/16/2011
+2694,437,"ANB,Bradford,Steuben",ANB,,"140,Ninth Park Avenue,Bradford",US,NY,Steuben,ANB00437,Bradford,8/25/2012
+2695,438,"ANB,Brandon,Franklin",ANB,,"418,Tenth PO,Brandon",US,NY,Franklin,ANB00438,Brandon,12/12/2018
+2696,439,"ANB,Brant,Erie",ANB,,"403,fifth Building,Brant",US,NY,Erie,ANB00439,Brant,1/14/2002
+2697,440,"ANB,Brasher,St. Lawrence",ANB,,"263,forth Building,Brasher",US,NY,St. Lawrence,ANB00440,Brasher,9/21/2006
+2698,441,"ANB,Bridgewater,Oneida",ANB,,"391,Eighth Avenue,Bridgewater",US,NY,Oneida,ANB00441,Bridgewater,9/16/2015
+2699,442,"ANB,Bristol,Ontario",ANB,,"145,Eighth Street,Bristol",US,NY,Ontario,ANB00442,Bristol,6/25/2003
+2700,443,"ANB,Broadalbin,Fulton",ANB,,"296,Tenth Lane,Broadalbin",US,NY,Fulton,ANB00443,Broadalbin,5/12/2017
+2701,444,"ANB,Brookfield,Madison",ANB,,"218,Second Street,Brookfield",US,NY,Madison,ANB00444,Brookfield,9/2/2010
+2702,445,"ANB,Brookhaven,Suffolk",ANB,,"437,Fifth Street,Brookhaven",US,NY,Suffolk,ANB00445,Brookhaven,10/30/2001
+2703,446,"ANB,Broome,Schoharie",ANB,,"483,Sixth PO,Broome",US,NY,Schoharie,ANB00446,Broome,2/12/2018
+2704,447,"ANB,Brownville,Jefferson",ANB,,"305,First Street,Brownville",US,NY,Jefferson,ANB00447,Brownville,3/10/2007
+2705,542,"ANB,Brunswick,Rensselaer",ANB,,"380,Ninth Street,Brunswick",US,NY,Rensselaer,ANB00542,Brunswick,6/11/2004
+2706,543,"ANB,Brutus,Cayuga",ANB,,"445,Ninth Lane,Brutus",US,NY,Cayuga,ANB00543,Brutus,4/1/2013
+2707,544,"ANB,Burke,Franklin",ANB,,"342,First Park Street,Burke",US,NY,Franklin,ANB00544,Burke,9/5/2016
+2708,545,"ANB,Burlington,Otsego",ANB,,"291,Forth Avenue,Burlington",US,NY,Otsego,ANB00545,Burlington,4/26/2002
+2709,546,"ANB,Burns,Allegany",ANB,,"228,Forth Lane,Burns",US,NY,Allegany,ANB00546,Burns,10/1/2000
+2710,547,"ANB,Busti,Chautauqua",ANB,,"276,Second Lane,Busti",US,NY,Chautauqua,ANB00547,Busti,5/25/2003
+2711,548,"ANB,Butler,Wayne",ANB,,"222,Seventh Cascade,Butler",US,NY,Wayne,ANB00548,Butler,11/29/2012
+2712,549,"ANB,Butternuts,Otsego",ANB,,"385,Tenth Park Street,Butternuts",US,NY,Otsego,ANB00549,Butternuts,3/27/2018
+2713,550,"ANB,Byron,Genesee",ANB,,"134,Seventh Lane,Byron",US,NY,Genesee,ANB00550,Byron,9/12/2017
+2714,551,"ANB,Cairo,Greene",ANB,,"466,first Park Avenue,Cairo",US,NY,Greene,ANB00551,Cairo,5/29/2009
+2715,552,"ANB,Caledonia,Livingston",ANB,,"267,First Lane,Caledonia",US,NY,Livingston,ANB00552,Caledonia,8/24/2004
+2716,553,"ANB,Callicoon,Sullivan",ANB,,"153,Seventh Avenue,Callicoon",US,NY,Sullivan,ANB00553,Callicoon,5/3/2005
+2717,554,"ANB,Cambria,Niagara",ANB,,"392,Forth Main Street,Cambria",US,NY,Niagara,ANB00554,Cambria,8/31/2014
+2718,555,"ANB,Cambridge,Washington",ANB,,"262,Sixth Park Street,Cambridge",US,NY,Washington,ANB00555,Cambridge,12/9/2015
+2719,556,"ANB,Camden,Oneida",ANB,,"294,Fifth Park Street,Camden",US,NY,Oneida,ANB00556,Camden,7/26/2008
+2720,557,"ANB,Cameron,Steuben",ANB,,"135,Forth Lane,Cameron",US,NY,Steuben,ANB00557,Cameron,6/17/2013
+2721,558,"ANB,Camillus,Onondaga",ANB,,"481,Tenth Avenue,Camillus",US,NY,Onondaga,ANB00558,Camillus,6/25/2006
+2722,559,"ANB,Campbell,Steuben",ANB,,"277,Tenth Street,Campbell",US,NY,Steuben,ANB00559,Campbell,6/1/2004
+2723,560,"ANB,Canaan,Columbia",ANB,,"120,second Street,Canaan",US,NY,Columbia,ANB00560,Canaan,12/10/2008
+2724,561,"ANB,Canadice,Ontario",ANB,,"437,Fifth Lane,Canadice",US,NY,Ontario,ANB00561,Canadice,11/16/2009
+2725,562,"ANB,Canajoharie,Montgomery",ANB,,"431,fifth Lane,Canajoharie",US,NY,Montgomery,ANB00562,Canajoharie,7/14/2001
+2726,563,"ANB,Canandaigua,Ontario",ANB,,"385,Third PO,Canandaigua",US,NY,Ontario,ANB00563,Canandaigua,9/10/2013
+2727,564,"ANB,Candor,Tioga",ANB,,"312,fifth Lane,Candor",US,NY,Tioga,ANB00564,Candor,11/30/2008
+2728,565,"ANB,Caneadea,Allegany",ANB,,"170,forth Cascade,Caneadea",US,NY,Allegany,ANB00565,Caneadea,1/19/2003
+2729,566,"ANB,Canisteo,Steuben",ANB,,"129,First Street,Canisteo",US,NY,Steuben,ANB00566,Canisteo,4/23/2007
+2730,567,"ANB,Canton,St. Lawrence",ANB,,"387,forth Lane,Canton",US,NY,St. Lawrence,ANB00567,Canton,7/14/2010
+2731,568,"ANB,Cape Vincent,Jefferson",ANB,,"480,Second Lane,Cape Vincent",US,NY,Jefferson,ANB00568,Cape Vincent,5/16/2015
+2732,569,"ANB,Carlisle,Schoharie",ANB,,"300,Sixth Lane,Carlisle",US,NY,Schoharie,ANB00569,Carlisle,7/1/2010
+2733,570,"ANB,Carlton,Orleans",ANB,,"299,Seventh Park Street,Carlton",US,NY,Orleans,ANB00570,Carlton,8/6/2006
+2734,571,"ANB,Carmel,Putnam",ANB,,"200,Eighth Avenue,Carmel",US,NY,Putnam,ANB00571,Carmel,2/26/2014
+2735,572,"ANB,Caroga,Fulton",ANB,,"476,third Block,Caroga",US,NY,Fulton,ANB00572,Caroga,10/28/2017
+2736,573,"ANB,Caroline,Tompkins",ANB,,"433,Seventh Lane,Caroline",US,NY,Tompkins,ANB00573,Caroline,8/9/2012
+2737,574,"ANB,Carroll,Chautauqua",ANB,,"464,Seventh Lane,Carroll",US,NY,Chautauqua,ANB00574,Carroll,4/19/2000
+2738,575,"ANB,Carrollton,Cattaraugus",ANB,,"416,Sixth PO,Carrollton",US,NY,Cattaraugus,ANB00575,Carrollton,11/28/2011
+2739,576,"ANB,Castile,Wyoming",ANB,,"172,first Park Avenue,Castile",US,NY,Wyoming,ANB00576,Castile,3/30/2010
+2740,577,"ANB,Catharine,Schuyler",ANB,,"273,Third Lane,Catharine",US,NY,Schuyler,ANB00577,Catharine,9/26/2011
+2741,578,"ANB,Catlin,Chemung",ANB,,"204,Tenth Lane,Catlin",US,NY,Chemung,ANB00578,Catlin,6/17/2010
+2742,579,"ANB,Cato,Cayuga",ANB,,"251,Tenth Lane,Cato",US,NY,Cayuga,ANB00579,Cato,5/2/2002
+2743,580,"ANB,Caton,Steuben",ANB,,"111,Third Lane,Caton",US,NY,Steuben,ANB00580,Caton,3/21/2013
+2744,581,"ANB,Catskill,Greene",ANB,,"424,Sixth Park Avenue,Catskill",US,NY,Greene,ANB00581,Catskill,2/18/2004
+2745,582,"ANB,Cayuta,Schuyler",ANB,,"185,Sixth Street,Cayuta",US,NY,Schuyler,ANB00582,Cayuta,10/4/2013
+2746,583,"ANB,Cazenovia,Madison",ANB,,"422,third Lane,Cazenovia",US,NY,Madison,ANB00583,Cazenovia,10/19/2014
+2747,584,"ANB,Centerville,Allegany",ANB,,"203,Tenth Cascade,Centerville",US,NY,Allegany,ANB00584,Centerville,8/29/2018
+2748,585,"ANB,Allegany,Cattaraugus",ANB,,"398,Eighth Block,Allegany",US,NY,Cattaraugus,ANB00585,Allegany,8/24/2014
+2749,586,"ANB,Allen,Allegany",ANB,,"317,Seventh Park Avenue,Allen",US,NY,Allegany,ANB00586,Allen,4/14/2014
+2750,587,"ANB,Alma,Allegany",ANB,,"366,First Building,Alma",US,NY,Allegany,ANB00587,Alma,7/22/2007
+2751,588,"ANB,Almond,Allegany",ANB,,"236,Second Lane,Almond",US,NY,Allegany,ANB00588,Almond,4/18/2001
+2752,589,"ANB,Altona,Clinton",ANB,,"120,Forth Block,Altona",US,NY,Clinton,ANB00589,Altona,1/23/2017
+2753,590,"ANB,Amboy,Oswego",ANB,,"131,first Lane,Amboy",US,NY,Oswego,ANB00590,Amboy,5/23/2008
+2754,591,"ANB,Amenia,Dutchess",ANB,,"446,Third Avenue,Amenia",US,NY,Dutchess,ANB00591,Amenia,8/1/2018
+2755,592,"ANB,Amherst,Erie",ANB,,"176,First Cascade,Amherst",US,NY,Erie,ANB00592,Amherst,6/3/2003
+2756,593,"ANB,Amity,Allegany",ANB,,"123,Eighth Cascade,Amity",US,NY,Allegany,ANB00593,Amity,1/1/2005
+2757,594,"ANB,Amsterdam,Montgomery",ANB,,"390,first Lane,Amsterdam",US,NY,Montgomery,ANB00594,Amsterdam,12/25/2009
+2758,595,"ANB,Ancram,Columbia",ANB,,"477,First Park Street,Ancram",US,NY,Columbia,ANB00595,Ancram,1/15/2000
+2759,596,"ANB,Andes,Delaware",ANB,,"108,Second Park Avenue,Andes",US,NY,Delaware,ANB00596,Andes,8/11/2013
+2760,597,"ANB,Andover,Allegany",ANB,,"164,First Avenue,Andover",US,NY,Allegany,ANB00597,Andover,3/20/2009
+2761,598,"ANB,Angelica,Allegany",ANB,,"227,Seventh Street,Angelica",US,NY,Allegany,ANB00598,Angelica,12/3/2015
+2762,599,"ANB,Annsville,Oneida",ANB,,"294,fifth Main Street,Annsville",US,NY,Oneida,ANB00599,Annsville,1/6/2015
+2763,600,"ANB,Antwerp,Jefferson",ANB,,"370,Seventh Avenue,Antwerp",US,NY,Jefferson,ANB00600,Antwerp,6/3/2004
+2764,601,"ANB,Arcade,Wyoming",ANB,,"406,Second Street,Arcade",US,NY,Wyoming,ANB00601,Arcade,8/16/2005
+2765,602,"ANB,Arcadia,Wayne",ANB,,"478,forth Lane,Arcadia",US,NY,Wayne,ANB00602,Arcadia,8/27/2010
+2766,603,"ANB,Argyle,Washington",ANB,,"419,Second Cascade,Argyle",US,NY,Washington,ANB00603,Argyle,8/6/2015
+2767,604,"ANB,Arietta,Hamilton",ANB,,"354,first Lane,Arietta",US,NY,Hamilton,ANB00604,Arietta,3/13/2018
+2768,605,"ANB,Arkwright,Chautauqua",ANB,,"353,second Lane,Arkwright",US,NY,Chautauqua,ANB00605,Arkwright,9/29/2012
+2769,606,"ANB,Ashford,Cattaraugus",ANB,,"190,Sixth Building,Ashford",US,NY,Cattaraugus,ANB00606,Ashford,9/4/2000
+2770,607,"ANB,Athens,Greene",ANB,,"332,first Lane,Athens",US,NY,Greene,ANB00607,Athens,4/27/2007
+2771,608,"ANB,Attica,Wyoming",ANB,,"105,Seventh Lane,Attica",US,NY,Wyoming,ANB00608,Attica,12/23/2012
+2772,609,"ANB,Au Sable,Clinton",ANB,,"448,Eighth Cascade,Au Sable",US,NY,Clinton,ANB00609,Au Sable,8/26/2017
+2773,610,"ANB,Augusta,Oneida",ANB,,"473,Fifth Lane,Augusta",US,NY,Oneida,ANB00610,Augusta,6/16/2002
+2774,611,"ANB,Aurelius,Cayuga",ANB,,"218,first Avenue,Aurelius",US,NY,Cayuga,ANB00611,Aurelius,9/10/2016
+2775,612,"ANB,Aurora,Erie",ANB,,"127,Second Avenue,Aurora",US,NY,Erie,ANB00612,Aurora,11/8/2017
+2776,613,"ANB,Austerlitz,Columbia",ANB,,"170,Tenth Building,Austerlitz",US,NY,Columbia,ANB00613,Austerlitz,1/16/2000
+2777,614,"ANB,Ava,Oneida",ANB,,"500,Tenth Lane,Ava",US,NY,Oneida,ANB00614,Ava,1/23/2011
+2778,615,"ANB,Avoca,Steuben",ANB,,"246,second PO,Avoca",US,NY,Steuben,ANB00615,Avoca,5/6/2002
+2779,616,"ANB,Avon,Livingston",ANB,,"470,Eighth Lane,Avon",US,NY,Livingston,ANB00616,Avon,12/15/2018
+2780,617,"ANB,Babylon,Suffolk",ANB,,"483,third Lane,Babylon",US,NY,Suffolk,ANB00617,Babylon,5/1/2009
+2781,618,"ANB,Bainbridge,Chenango",ANB,,"327,Second Main Street,Bainbridge",US,NY,Chenango,ANB00618,Bainbridge,9/16/2000
+2782,619,"ANB,Baldwin,Chemung",ANB,,"210,third Block,Baldwin",US,NY,Chemung,ANB00619,Baldwin,7/10/2013
+2783,620,"ANB,Ballston,Saratoga",ANB,,"148,Ninth PO,Ballston",US,NY,Saratoga,ANB00620,Ballston,4/12/2010
+2784,621,"ANB,Bangor,Franklin",ANB,,"359,third Park Avenue,Bangor",US,NY,Franklin,ANB00621,Bangor,1/23/2018
+2785,622,"ANB,Barker,Broome",ANB,,"413,Tenth Street,Barker",US,NY,Broome,ANB00622,Barker,11/9/2018
+2786,623,"ANB,Barre,Orleans",ANB,,"320,Tenth Lane,Barre",US,NY,Orleans,ANB00623,Barre,12/17/2015
+2787,624,"ANB,Barrington,Yates",ANB,,"396,first Lane,Barrington",US,NY,Yates,ANB00624,Barrington,7/13/2009
+2788,625,"ANB,Barton,Tioga",ANB,,"272,third Lane,Barton",US,NY,Tioga,ANB00625,Barton,8/14/2011
+2789,626,"ANB,Batavia,Genesee",ANB,,"305,Ninth Lane,Batavia",US,NY,Genesee,ANB00626,Batavia,7/24/2009
+2790,627,"ANB,Bath,Steuben",ANB,,"308,third Cascade,Bath",US,NY,Steuben,ANB00627,Bath,4/26/2010
+2791,628,"ANB,Bedford,Westchester",ANB,,"455,Forth Main Street,Bedford",US,NY,Westchester,ANB00628,Bedford,6/20/2007
+2792,629,"ANB,Beekman,Dutchess",ANB,,"393,Third Lane,Beekman",US,NY,Dutchess,ANB00629,Beekman,2/24/2009
+2793,630,"ANB,Beekmantown,Clinton",ANB,,"219,fifth Lane,Beekmantown",US,NY,Clinton,ANB00630,Beekmantown,9/10/2007
+2794,631,"ANB,Belfast,Allegany",ANB,,"468,Sixth Cascade,Belfast",US,NY,Allegany,ANB00631,Belfast,11/4/2018
+2795,632,"ANB,Bellmont,Franklin",ANB,,"140,Seventh Street,Bellmont",US,NY,Franklin,ANB00632,Bellmont,2/13/2015
+2796,633,"ANB,Bennington,Wyoming",ANB,,"437,Sixth Lane,Bennington",US,NY,Wyoming,ANB00633,Bennington,1/11/2013
+2797,634,"ANB,Benson,Hamilton",ANB,,"445,First Street,Benson",US,NY,Hamilton,ANB00634,Benson,8/30/2002
+2798,635,"ANB,Benton,Yates",ANB,,"459,Tenth PO,Benton",US,NY,Yates,ANB00635,Benton,5/23/2001
+2799,636,"ANB,Bergen,Genesee",ANB,,"374,Second Park Street,Bergen",US,NY,Genesee,ANB00636,Bergen,10/26/2003
+2800,637,"ANB,Berkshire,Tioga",ANB,,"295,forth Park Street,Berkshire",US,NY,Tioga,ANB00637,Berkshire,10/4/2002
+2801,638,"ANB,Berlin,Rensselaer",ANB,,"499,Fifth Main Street,Berlin",US,NY,Rensselaer,ANB00638,Berlin,8/26/2018
+2802,639,"ANB,Berne,Albany",ANB,,"118,Eighth Building,Berne",US,NY,Albany,ANB00639,Berne,3/22/2006
+2803,640,"ANB,Bethany,Genesee",ANB,,"264,Second Lane,Bethany",US,NY,Genesee,ANB00640,Bethany,11/2/2011
+2804,641,"ANB,Bethel,Sullivan",ANB,,"113,Seventh Lane,Bethel",US,NY,Sullivan,ANB00641,Bethel,6/16/2011
+2805,642,"ANB,Bethlehem,Albany",ANB,,"182,Eighth Main Street,Bethlehem",US,NY,Albany,ANB00642,Bethlehem,5/20/2001
+2806,643,"ANB,Big Flats,Chemung",ANB,,"252,Tenth Main Street,Big Flats",US,NY,Chemung,ANB00643,Big Flats,9/30/2006
+2807,644,"ANB,Binghamton,Broome",ANB,,"461,Forth PO,Binghamton",US,NY,Broome,ANB00644,Binghamton,1/3/2012
+2808,645,"ANB,Birdsall,Allegany",ANB,,"424,Sixth Lane,Birdsall",US,NY,Allegany,ANB00645,Birdsall,7/13/2018
+2809,646,"ANB,Black Brook,Clinton",ANB,,"269,Sixth Lane,Black Brook",US,NY,Clinton,ANB00646,Black Brook,7/23/2002
+2810,647,"ANB,Bleecker,Fulton",ANB,,"282,Sixth Park Street,Bleecker",US,NY,Fulton,ANB00647,Bleecker,1/5/2010
+2811,742,"ANB,Blenheim,Schoharie",ANB,,"241,Tenth Lane,Blenheim",US,NY,Schoharie,ANB00742,Blenheim,1/22/2014
+2812,743,"ANB,Blooming Grove,Orange",ANB,,"140,Fifth Building,Blooming Grove",US,NY,Orange,ANB00743,Blooming Grove,7/15/2002
+2813,744,"ANB,Bolivar,Allegany",ANB,,"387,Eighth PO,Bolivar",US,NY,Allegany,ANB00744,Bolivar,2/27/2018
+2814,745,"ANB,Bolton,Warren",ANB,,"485,Fifth Main Street,Bolton",US,NY,Warren,ANB00745,Bolton,8/25/2008
+2815,746,"ANB,Bombay,Franklin",ANB,,"112,fifth Lane,Bombay",US,NY,Franklin,ANB00746,Bombay,2/9/2002
+2816,747,"ANB,Boonville,Oneida",ANB,,"490,Third Avenue,Boonville",US,NY,Oneida,ANB00747,Boonville,9/29/2010
+2817,748,"ANB,Boston,Erie",ANB,,"350,Sixth Street,Boston",US,NY,Erie,ANB00748,Boston,2/9/2017
+2818,749,"ANB,Bovina,Delaware",ANB,,"239,forth Main Street,Bovina",US,NY,Delaware,ANB00749,Bovina,3/9/2006
+2819,750,"ANB,Boylston,Oswego",ANB,,"445,Seventh PO,Boylston",US,NY,Oswego,ANB00750,Boylston,4/7/2009
+2820,751,"ANB,Bradford,Steuben",ANB,,"321,Seventh Lane,Bradford",US,NY,Steuben,ANB00751,Bradford,12/24/2012
+2821,752,"ANB,Brandon,Franklin",ANB,,"354,Second Cascade,Brandon",US,NY,Franklin,ANB00752,Brandon,6/21/2014
+2822,753,"ANB,Brant,Erie",ANB,,"255,Fifth Lane,Brant",US,NY,Erie,ANB00753,Brant,8/12/2018
+2823,754,"ANB,Brasher,St. Lawrence",ANB,,"170,Tenth Lane,Brasher",US,NY,St. Lawrence,ANB00754,Brasher,8/11/2016
+2824,755,"ANB,Bridgewater,Oneida",ANB,,"214,Tenth Lane,Bridgewater",US,NY,Oneida,ANB00755,Bridgewater,8/28/2002
+2825,756,"ANB,Bristol,Ontario",ANB,,"434,second Main Street,Bristol",US,NY,Ontario,ANB00756,Bristol,2/1/2012
+2826,757,"ANB,Broadalbin,Fulton",ANB,,"447,Eighth Lane,Broadalbin",US,NY,Fulton,ANB00757,Broadalbin,8/16/2016
+2827,758,"ANB,Brookfield,Madison",ANB,,"498,Seventh Park Street,Brookfield",US,NY,Madison,ANB00758,Brookfield,8/7/2013
+2828,759,"ANB,Brookhaven,Suffolk",ANB,,"361,Ninth Park Avenue,Brookhaven",US,NY,Suffolk,ANB00759,Brookhaven,6/2/2008
+2829,760,"ANB,Broome,Schoharie",ANB,,"264,Fifth Lane,Broome",US,NY,Schoharie,ANB00760,Broome,6/19/2001
+2830,761,"ANB,Brownville,Jefferson",ANB,,"461,first Main Street,Brownville",US,NY,Jefferson,ANB00761,Brownville,1/3/2007
+2831,762,"ANB,Brunswick,Rensselaer",ANB,,"208,fifth Cascade,Brunswick",US,NY,Rensselaer,ANB00762,Brunswick,5/17/2013
+2832,763,"ANB,Brutus,Cayuga",ANB,,"118,First Park Street,Brutus",US,NY,Cayuga,ANB00763,Brutus,7/16/2000
+2833,764,"ANB,Burke,Franklin",ANB,,"328,Ninth Lane,Burke",US,NY,Franklin,ANB00764,Burke,1/18/2013
+2834,765,"ANB,Burlington,Otsego",ANB,,"383,Eighth Lane,Burlington",US,NY,Otsego,ANB00765,Burlington,11/3/2017
+2835,766,"ANB,Burns,Allegany",ANB,,"216,Sixth Lane,Burns",US,NY,Allegany,ANB00766,Burns,2/2/2003
+2836,767,"ANB,Busti,Chautauqua",ANB,,"328,Sixth Lane,Busti",US,NY,Chautauqua,ANB00767,Busti,1/10/2003
+2837,768,"ANB,Butler,Wayne",ANB,,"211,first Avenue,Butler",US,NY,Wayne,ANB00768,Butler,5/7/2000
+2838,769,"ANB,Butternuts,Otsego",ANB,,"158,Ninth Cascade,Butternuts",US,NY,Otsego,ANB00769,Butternuts,9/22/2013
+2839,770,"ANB,Byron,Genesee",ANB,,"374,Third Park Avenue,Byron",US,NY,Genesee,ANB00770,Byron,12/13/2009
+2840,771,"ANB,Cairo,Greene",ANB,,"160,Second Building,Cairo",US,NY,Greene,ANB00771,Cairo,8/16/2010
+2841,772,"ANB,Caledonia,Livingston",ANB,,"220,second Lane,Caledonia",US,NY,Livingston,ANB00772,Caledonia,12/19/2002
+2842,773,"ANB,Callicoon,Sullivan",ANB,,"120,First Avenue,Callicoon",US,NY,Sullivan,ANB00773,Callicoon,8/8/2000
+2843,774,"ANB,Cambria,Niagara",ANB,,"305,first Park Avenue,Cambria",US,NY,Niagara,ANB00774,Cambria,11/17/2007
+2844,775,"ANB,Cambridge,Washington",ANB,,"156,fifth Main Street,Cambridge",US,NY,Washington,ANB00775,Cambridge,4/19/2002
+2845,776,"ANB,Camden,Oneida",ANB,,"464,Second Cascade,Camden",US,NY,Oneida,ANB00776,Camden,3/25/2016
+2846,777,"ANB,Cameron,Steuben",ANB,,"320,fifth Avenue,Cameron",US,NY,Steuben,ANB00777,Cameron,9/11/2007
+2847,778,"ANB,Camillus,Onondaga",ANB,,"317,Fifth Park Street,Camillus",US,NY,Onondaga,ANB00778,Camillus,7/15/2004
+2848,779,"ANB,Campbell,Steuben",ANB,,"388,third Main Street,Campbell",US,NY,Steuben,ANB00779,Campbell,10/28/2015
+2849,780,"ANB,Canaan,Columbia",ANB,,"138,Tenth Building,Canaan",US,NY,Columbia,ANB00780,Canaan,2/22/2003
+2850,781,"ANB,Canadice,Ontario",ANB,,"179,Sixth Cascade,Canadice",US,NY,Ontario,ANB00781,Canadice,7/9/2005
+2851,782,"ANB,Canajoharie,Montgomery",ANB,,"240,Fifth Lane,Canajoharie",US,NY,Montgomery,ANB00782,Canajoharie,3/24/2005
+2852,783,"ANB,Canandaigua,Ontario",ANB,,"304,Tenth Main Street,Canandaigua",US,NY,Ontario,ANB00783,Canandaigua,12/10/2007
+2853,784,"ANB,Candor,Tioga",ANB,,"410,Sixth Lane,Candor",US,NY,Tioga,ANB00784,Candor,12/27/2012
+2854,785,"ANB,Caneadea,Allegany",ANB,,"234,Forth Lane,Caneadea",US,NY,Allegany,ANB00785,Caneadea,2/25/2007
+2855,786,"ANB,Canisteo,Steuben",ANB,,"266,Ninth Lane,Canisteo",US,NY,Steuben,ANB00786,Canisteo,5/17/2012
+2856,787,"ANB,Canton,St. Lawrence",ANB,,"235,second Cascade,Canton",US,NY,St. Lawrence,ANB00787,Canton,7/13/2004
+2857,788,"ANB,Cape Vincent,Jefferson",ANB,,"381,Fifth Block,Cape Vincent",US,NY,Jefferson,ANB00788,Cape Vincent,6/18/2002
+2858,789,"ANB,Carlisle,Schoharie",ANB,,"293,Seventh Lane,Carlisle",US,NY,Schoharie,ANB00789,Carlisle,12/4/2003
+2859,790,"ANB,Carlton,Orleans",ANB,,"355,third Avenue,Carlton",US,NY,Orleans,ANB00790,Carlton,1/18/2001
+2860,791,"ANB,Carmel,Putnam",ANB,,"245,third Lane,Carmel",US,NY,Putnam,ANB00791,Carmel,10/17/2002
+2861,792,"ANB,Caroga,Fulton",ANB,,"168,Ninth Lane,Caroga",US,NY,Fulton,ANB00792,Caroga,5/30/2003
+2862,793,"ANB,Caroline,Tompkins",ANB,,"466,Forth Cascade,Caroline",US,NY,Tompkins,ANB00793,Caroline,2/9/2006
+2863,794,"ANB,Carroll,Chautauqua",ANB,,"395,first Lane,Carroll",US,NY,Chautauqua,ANB00794,Carroll,1/9/2014
+2864,795,"ANB,Carrollton,Cattaraugus",ANB,,"393,Sixth Main Street,Carrollton",US,NY,Cattaraugus,ANB00795,Carrollton,7/27/2005
+2865,796,"ANB,Castile,Wyoming",ANB,,"215,Second Lane,Castile",US,NY,Wyoming,ANB00796,Castile,10/9/2015
+2866,797,"ANB,Catharine,Schuyler",ANB,,"397,Second PO,Catharine",US,NY,Schuyler,ANB00797,Catharine,3/17/2005
+2867,798,"ANB,Catlin,Chemung",ANB,,"405,Third Park Avenue,Catlin",US,NY,Chemung,ANB00798,Catlin,3/26/2002
+2868,799,"ANB,Cato,Cayuga",ANB,,"208,forth Main Street,Cato",US,NY,Cayuga,ANB00799,Cato,10/17/2017
+2869,800,"ANB,Caton,Steuben",ANB,,"367,Second Park Street,Caton",US,NY,Steuben,ANB00800,Caton,3/31/2009
+2870,801,"ANB,Catskill,Greene",ANB,,"143,First Park Street,Catskill",US,NY,Greene,ANB00801,Catskill,5/29/2000
+2871,802,"ANB,Cayuta,Schuyler",ANB,,"397,third Block,Cayuta",US,NY,Schuyler,ANB00802,Cayuta,3/19/2012
+2872,803,"ANB,Cazenovia,Madison",ANB,,"406,Third PO,Cazenovia",US,NY,Madison,ANB00803,Cazenovia,12/15/2017
+2873,804,"ANB,Centerville,Allegany",ANB,,"167,Tenth Main Street,Centerville",US,NY,Allegany,ANB00804,Centerville,2/8/2003
+2874,805,"ANB,Champion,Jefferson",ANB,,"299,third Street,Champion",US,NY,Jefferson,ANB00805,Champion,8/14/2014
+2875,806,"ANB,Champlain,Clinton",ANB,,"349,Tenth Park Street,Champlain",US,NY,Clinton,ANB00806,Champlain,2/12/2004
+2876,807,"ANB,Charleston,Montgomery",ANB,,"461,First Avenue,Charleston",US,NY,Montgomery,ANB00807,Charleston,5/22/2018
+2877,808,"ANB,Charlotte,Chautauqua",ANB,,"385,Forth Park Street,Charlotte",US,NY,Chautauqua,ANB00808,Charlotte,3/25/2015
+2878,809,"ANB,Charlton,Saratoga",ANB,,"388,Third Lane,Charlton",US,NY,Saratoga,ANB00809,Charlton,2/20/2004
+2879,810,"ANB,Chateaugay,Franklin",ANB,,"184,Forth Street,Chateaugay",US,NY,Franklin,ANB00810,Chateaugay,12/12/2018
+2880,811,"ANB,Chatham,Columbia",ANB,,"120,Seventh Lane,Chatham",US,NY,Columbia,ANB00811,Chatham,12/19/2001
+2881,812,"ANB,Chautauqua,Chautauqua",ANB,,"298,fifth Street,Chautauqua",US,NY,Chautauqua,ANB00812,Chautauqua,2/9/2009
+2882,813,"ANB,Chazy,Clinton",ANB,,"386,Third PO,Chazy",US,NY,Clinton,ANB00813,Chazy,6/4/2010
+2883,814,"ANB,Cheektowaga,Erie",ANB,,"162,Eighth Lane,Cheektowaga",US,NY,Erie,ANB00814,Cheektowaga,3/6/2006
+2884,815,"ANB,Chemung,Chemung",ANB,,"348,Sixth Street,Chemung",US,NY,Chemung,ANB00815,Chemung,9/8/2014
+2885,816,"ANB,Chenango,Broome",ANB,,"328,fifth Building,Chenango",US,NY,Broome,ANB00816,Chenango,2/19/2014
+2886,817,"ANB,Champion,Jefferson",ANB,,"339,Tenth Street,Champion",US,NY,Jefferson,ANB00817,Champion,5/7/2004
+2887,818,"ANB,Champlain,Clinton",ANB,,"380,Ninth Street,Champlain",US,NY,Clinton,ANB00818,Champlain,5/19/2015
+2888,819,"ANB,Charleston,Montgomery",ANB,,"253,Tenth Street,Charleston",US,NY,Montgomery,ANB00819,Charleston,12/29/2011
+2889,820,"ANB,Charlotte,Chautauqua",ANB,,"100,First Lane,Charlotte",US,NY,Chautauqua,ANB00820,Charlotte,4/1/2004
+2890,821,"ANB,Charlton,Saratoga",ANB,,"234,third Street,Charlton",US,NY,Saratoga,ANB00821,Charlton,4/23/2003
+2891,822,"ANB,Chateaugay,Franklin",ANB,,"158,fifth Park Avenue,Chateaugay",US,NY,Franklin,ANB00822,Chateaugay,1/1/2011
+2892,823,"ANB,Chatham,Columbia",ANB,,"173,Ninth Avenue,Chatham",US,NY,Columbia,ANB00823,Chatham,6/25/2017
+2893,824,"ANB,Chautauqua,Chautauqua",ANB,,"272,first Cascade,Chautauqua",US,NY,Chautauqua,ANB00824,Chautauqua,10/25/2001
+2894,825,"ANB,Chazy,Clinton",ANB,,"142,Forth Main Street,Chazy",US,NY,Clinton,ANB00825,Chazy,9/7/2008
+2895,826,"ANB,Cheektowaga,Erie",ANB,,"119,Fifth Building,Cheektowaga",US,NY,Erie,ANB00826,Cheektowaga,3/18/2015
+2896,827,"ANB,Chemung,Chemung",ANB,,"177,fifth Lane,Chemung",US,NY,Chemung,ANB00827,Chemung,8/31/2005
+2897,828,"ANB,Chenango,Broome",ANB,,"161,Eighth Street,Chenango",US,NY,Broome,ANB00828,Chenango,12/11/2011
